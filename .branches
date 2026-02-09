@@ -1,0 +1,16 @@
+# Git Branches
+
+## Available Branches
+- main/master (default branch)
+- copilot/create-mspr-directories (current working branch)
+- dev (created locally - ready to be pushed)
+
+## Directory Structure Created
+- MSPR1/
+  - sujet/
+  - docs/
+  - app/
+- MSPR2/
+  - sujet/
+  - docs/
+  - app/
